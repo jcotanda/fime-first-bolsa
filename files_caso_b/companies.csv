@@ -1,0 +1,133 @@
+﻿CompanyID;Name;City;Sector
+100;Walmart;Bentonville, AR, USA;General Merchandise
+101;Amazon;Seattle, WA, USA;E-commerce
+102;Costco Wholesale;Issaquah, WA, USA;Warehouse Club
+103;The Home Depot;Atlanta, GA, USA;Home Improvement
+104;Kroger;Cincinnati, OH, USA;Supermarket
+105;Walgreens Boots Alliance;Deerfield, IL, USA;Pharmacy
+106;CVS Health;Woonsocket, RI, USA;Pharmacy
+107;Target;Minneapolis, MN, USA;General Merchandise
+108;Lowe's;Mooresville, NC, USA;Home Improvement
+109;Albertsons;Boise, ID, USA;Supermarket
+110;Aldi;Essen, Germany;Discount Store
+111;Tesco;Welwyn Garden City, UK;Supermarket
+112;Carrefour;Massy, France;Supermarket
+113;Ahold Delhaize;Zaandam, Netherlands;Supermarket
+114;Metro AG;Düsseldorf, Germany;Wholesale
+115;Lidl;Neckarsulm, Germany;Discount Store
+116;E.Leclerc;Ivry-sur-Seine, France;Supermarket
+117;Auchan;Croix, France;Supermarket
+118;Sainsbury's;London, UK;Supermarket
+119;Marks & Spencer;London, UK;Department Store
+120;Woolworths;Bella Vista, Australia;Supermarket
+121;Coles;Hawthorn East, Australia;Supermarket
+122;Seven & I Holdings;Tokyo, Japan;Convenience Store
+123;Aeon;Chiba, Japan;Supermarket
+124;Fast Retailing;Yamaguchi, Japan;Apparel
+125;Lotte Shopping;Seoul, South Korea;Department Store
+126;Shinsegae;Seoul, South Korea;Department Store
+127;SM Investments;Pasay, Philippines;Department Store
+128;Robinsons Retail Holdings;Quezon City, Philippines;Supermarket
+129;Dairy Farm International;Hong Kong, China;Supermarket
+130;Reliance Retail;Mumbai, India;Supermarket
+131;Future Retail;Mumbai, India;Supermarket
+132;Shoprite Holdings;Cape Town, South Africa;Supermarket
+133;Pick n Pay Stores;Cape Town, South Africa;Supermarket
+134;Massmart;Sandton, South Africa;General Merchandise
+135;Falabella;Santiago, Chile;Department Store
+136;Cencosud;Santiago, Chile;Supermarket
+137;Grupo Éxito;Medellín, Colombia;Supermarket
+138;Soriana;Monterrey, Mexico;Supermarket
+139;Coppel;Culiacán, Mexico;Department Store
+141;Liverpool;Mexico City, Mexico;Department Store
+142;El Corte Inglés;Madrid, Spain;Department Store
+143;Mercadona;Valencia, Spain;Supermarket
+144;Inditex;Arteixo, Spain;Apparel
+145;H&M;Stockholm, Sweden;Apparel
+146;IKEA;Delft, Netherlands;Furniture
+147;Kingfisher;London, UK;Home Improvement
+148;Dixons Carphone;London, UK;Electronics
+149;JD Sports;Bury, UK;Sporting Goods
+150;Sports Direct;Shirebrook, UK;Sporting Goods
+151;Next;Enderby, UK;Apparel
+152;ASOS;London, UK;E-commerce
+153;Boohoo;Manchester, UK;E-commerce
+154;Zalando;Berlin, Germany;E-commerce
+155;Otto Group;Hamburg, Germany;E-commerce
+156;Rakuten;Tokyo, Japan;E-commerce
+157;Alibaba Group;Hangzhou, China;E-commerce
+158;JD.com;Beijing, China;E-commerce
+159;Pinduoduo;Shanghai, China;E-commerce
+160;Vipshop;Guangzhou, China;E-commerce
+161;Suning.com;Nanjing, China;Electronics
+162;Gome Retail;Beijing, China;Electronics
+163;Lianhua Supermarket;Shanghai, China;Supermarket
+164;Yonghui Superstores;Fuzhou, China;Supermarket
+165;Wumart;Beijing, China;Supermarket
+166;Metro Inc.;Montreal, Canada;Supermarket
+167;Loblaw Companies;Brampton, Canada;Supermarket
+168;Canadian Tire;Toronto, Canada;General Merchandise
+169;Sobeys;Stellarton, Canada;Supermarket
+170;Hudson's Bay Company;Toronto, Canada;Department Store
+171;Alimentation Couche-Tard;Laval, Canada;Convenience Store
+172;Dollarama;Montreal, Canada;Discount Store
+173;Aritzia;Vancouver, Canada;Apparel
+174;Lululemon Athletica;Vancouver, Canada;Apparel
+175;Sephora;Paris, France;Cosmetics
+176;Galeries Lafayette;Paris, France;Department Store
+177;Monoprix;Clichy, France;Supermarket
+178;Casino Guichard-Perrachon;Saint-Étienne, France;Supermarket
+179;Fnac Darty;Ivry-sur-Seine, France;Electronics
+180;Boulanger;Lesquin, France;Electronics
+181;Decathlon;Villeneuve-d'Ascq, France;Sporting Goods
+182;Sephora;San Francisco, CA, USA;Cosmetics
+183;Ulta Beauty;Bolingbrook, IL, USA;Cosmetics
+184;Bath & Body Works;Columbus, OH, USA;Personal Care
+185;Victoria's Secret;Reynoldsburg, OH, USA;Apparel
+186;Gap Inc.;San Francisco, CA, USA;Apparel
+187;Old Navy;San Francisco, CA, USA;Apparel
+188;Banana Republic;San Francisco, CA, USA;Apparel
+189;Athleta;San Francisco, CA, USA;Apparel
+190;American Eagle Outfitters;Pittsburgh, PA, USA;Apparel
+191;Aerie;Pittsburgh, PA, USA;Apparel
+192;Abercrombie & Fitch;New Albany, OH, USA;Apparel
+193;Hollister;New Albany, OH, USA;Apparel
+194;Urban Outfitters;Philadelphia, PA, USA;Apparel
+195;Anthropologie;Philadelphia, PA, USA;Apparel
+196;Sephora;San Francisco, CA, USA;Cosmetics
+197;Ulta Beauty;Bolingbrook, IL, USA;Cosmetics
+198;Bath & Body Works;Columbus, OH, USA;Personal Care
+199;Victoria's Secret;Reynoldsburg, OH, USA;Apparel
+200;Gap Inc.;San Francisco, CA, USA;Apparel
+201;Old Navy;San Francisco, CA, USA;Apparel
+202;Banana Republic;San Francisco, CA, USA;Apparel
+203;Athleta;San Francisco, CA, USA;Apparel
+204;American Eagle Outfitters;Pittsburgh, PA, USA;Apparel
+205;Aerie;Pittsburgh, PA, USA;Apparel
+206;Abercrombie & Fitch;New Albany, OH, USA;Apparel
+207;Hollister;New Albany, OH, USA;Apparel
+208;Urban Outfitters;Philadelphia, PA, USA;Apparel
+209;Anthropologie;Philadelphia, PA, USA;Apparel
+210;Free People;Philadelphia, PA, USA;Apparel
+211;Zara;Arteixo, Spain;Apparel
+212;Massimo Dutti;Barcelona, Spain;Apparel
+213;Pull & Bear;Narón, Spain;Apparel
+214;Bershka;Barcelona, Spain;Apparel
+215;Stradivarius;Barcelona, Spain;Apparel
+216;Oysho;Tordera, Spain;Apparel
+217;Uterqüe;Tordera, Spain;Apparel
+218;Mango;Palau-solità i Plegamans, Spain;Apparel
+219;Desigual;Barcelona, Spain;Apparel
+220;Primark;Dublin, Ireland;Apparel
+221;River Island;London, UK;Apparel
+222;Topshop;London, UK;Apparel
+223;New Look;London, UK;Apparel
+224;Superdry;Cheltenham, UK;Apparel
+225;Ted Baker;London, UK;Apparel
+226;Reiss;London, UK;Apparel
+227;AllSaints;London, UK;Apparel
+228;Uniqlo;Tokyo, Japan;Apparel
+229;Muji;Tokyo, Japan;Apparel
+230;GU;Tokyo, Japan;Apparel
+231;United Arrows;Tokyo, Japan;Apparel
+232;Beams;Tokyo, Japan;Apparel
